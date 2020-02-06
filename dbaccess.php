@@ -33,6 +33,5 @@ Last Access Time<br><br>
 	<?=escape1($a)?><br>
 <?php endforeach;?>
  commented by cui<br>
- commentdy by cui on 0206
 </body>
 </html>
